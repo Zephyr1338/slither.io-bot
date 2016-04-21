@@ -1,4 +1,3 @@
-
 var server = require('./slither/servers');
 var client = require('./slither/slitherio-client');
 
