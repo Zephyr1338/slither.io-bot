@@ -7,6 +7,7 @@
   <li><b>20/04/16:</b> Downloaded the newer game client and started writing 3 new handlers.</li>
   <li><b>21/04/16:</b> Created the current github repository.</li>
   <li><b>21/04/16:</b> Implemented HTTP proxy support.</li>
+  <li><b>21/04/16:</b> Update servers to the new slither.io update.</li>
 </ul>
 
 <h6>The bot is currently being developed on in private</h6>
