@@ -6,9 +6,13 @@
   <li><b>19/04/16:</b> Started programming the client in node.js and started to understand the current game client.</li>
   <li><b>20/04/16:</b> Downloaded the newer game client and started writing 3 new handlers.</li>
   <li><b>21/04/16:</b> Created the current github repository.</li>
+  <li><b>21/04/16:</b> Implemented HTTP proxy support.</li>
 </ul>
 
-<h6>The bot is currently private</h6>
+<h6>The bot is currently being developed on in private</h6>
 
 <img src="http://i.imgur.com/jcxth8u.png" /><br>
-<i>The bot current can load the snakes which "appear" around it.</i>
+<i>The bot current can load the snakes which "appear" around it.</i><br>
+
+<img src="http://i.imgur.com/xbXGbqW.png" /><br>
+<i>Found my bot after a little search time, changed the name to make it easier to find :).</i><br>
