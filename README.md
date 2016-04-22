@@ -8,6 +8,7 @@
   <li><b>21/04/16:</b> Created the current github repository.</li>
   <li><b>21/04/16:</b> Implemented HTTP proxy support.</li>
   <li><b>21/04/16:</b> Update servers to the new slither.io update.</li>
+  <li><b>22/04/16:</b> Noticed static variables are traps and are actually being loaded dynamically, adjusted the code to now load the variables dynamically.</li>
 </ul>
 
 <h6>The bot is currently being developed on in private</h6>
