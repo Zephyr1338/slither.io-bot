@@ -15,7 +15,7 @@
 </ul>
 
 <h6>The bot is currently being developed on in private</h6>
-<h6>Currently working on: allowing the bot to be moved and handling food spawning.</h6>
+<h6>Currently working on: getting the x and y of the moved snake.</h6>
 
 <img src="http://i.imgur.com/jcxth8u.png" /><br>
 <i>The bot current can load the snakes which "appear" around it.</i><br>
