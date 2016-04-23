@@ -9,6 +9,9 @@
   <li><b>21/04/16:</b> Implemented HTTP proxy support.</li>
   <li><b>21/04/16:</b> Update servers to the new slither.io update.</li>
   <li><b>22/04/16:</b> Noticed static variables are traps and are actually being loaded dynamically, adjusted the code to now load the variables dynamically.</li>
+  <li><b>23/04/16:</b> Current handling food spawning and food being eaten.</li>
+  <li><b>23/04/16:</b> Created a new function so the snake could be moved around.</li>
+  <li><b>23/04/16:</b> Added a new event handlers "snakeMoved", "foodSpawned", "foodEaten", "snakeMoved" and renamed one of them.</li>
 </ul>
 
 <h6>The bot is currently being developed on in private</h6>
