@@ -15,8 +15,8 @@ fs.readFile('proxies.txt', 'utf8', function(error, data)
 		slitherClient.on('snakeJoined', function()
 		{
 			console.log(slitherClient.nickname, 'has joined the game.');
-			slitherClient.move(100, 100);
-			slitherClient.setAccelerate(true);
+			//slitherClient.move(100, 100);
+			//slitherClient.setAccelerate(true);
 		});
 
 		slitherClient.on('foodSpawned', function(spawnedFood)
