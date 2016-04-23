@@ -12,6 +12,7 @@
   <li><b>23/04/16:</b> Current handling food spawning and food being eaten.</li>
   <li><b>23/04/16:</b> Created a new function so the snake could be moved around.</li>
   <li><b>23/04/16:</b> Added a new event handlers "snakeMoved", "foodSpawned", "foodEaten", "snakeMoved" and renamed one of them.</li>
+  <li><b>23/04/16:</b> Created a new file on the repository showing an example of using proxies(HTTP).</li>
 </ul>
 
 <h6>The bot is currently being developed on in private</h6>
@@ -22,3 +23,6 @@
 
 <img src="http://i.imgur.com/xbXGbqW.png" /><br>
 <i>Found my bot after a little search time, changed the name to make it easier to find :).</i><br>
+
+<img src="http://i.imgur.com/tQtGbrv.png" /><br>
+<i>Using proxies to create loads of bots a single server.</i><br>
