@@ -6,7 +6,7 @@ var server = { 'host': '206.191.154.45', 'port': '475' };
 
 fs.readFile('proxies.txt', 'utf8', function(error, data)
 {
-  var proxies = data.split('\r\n');
+	var proxies = data.split('\r\n');
 
 	for(var i = 0; i < proxies.length; i++)
 	{
