@@ -14,13 +14,17 @@
   <li><b>23/04/16:</b> Added a new event handlers "snakeMoved", "foodSpawned", "foodEaten", "snakeMoved" and renamed one of them.</li>
   <li><b>23/04/16:</b> Created a new file on the repository showing an example of using proxies(HTTP).</li>
   <li><b>24/04/16:</b> Noticed "snakeAppeared" handler should get the current snake who spawned X and Y .</li>
+  <li><b>24/04/16:</b> Got getting other snake's X and Y completed reflected in the picture.</li>
 </ul>
 
 <h6>I am now currently looking for people who are good at node.js to take part in this project, if you want to join respond in the issue.</h6>
-<h6>Currently working on: getting the x and y of the moved snake.</h6>
+<h6>Currently working on: not sure what it will be next now.</h6>
 
 <img src="http://i.imgur.com/k2ygqtJ.png" /><br>
 <i>Latest running version of the client.</i><br>
+
+<img src="http://i.imgur.com/p8RPPkD.png" /><br>
+<i>Showing other snakes movements instead of (0, 0).</i><br>
 
 <img src="http://i.imgur.com/jcxth8u.png" /><br>
 <i>The bot current can load the snakes which "appear" around it.</i><br>
