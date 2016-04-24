@@ -15,7 +15,7 @@
   <li><b>23/04/16:</b> Created a new file on the repository showing an example of using proxies(HTTP).</li>
 </ul>
 
-<h6>The bot is currently being developed on in private</h6>
+<h6>I am now currently looking for people who are good at node.js to take part in this project, if you want to join respond in the issue.</h6>
 <h6>Currently working on: getting the x and y of the moved snake.</h6>
 
 <img src="http://i.imgur.com/jcxth8u.png" /><br>
