@@ -1,6 +1,8 @@
 <h2>slither.io-bot</h2>
 <i>An open source Slither.io client implementation (written in node.js).</i>
 
+<h4>Notice: I have currently began to re-think making this public due to offers of money by people to either help them set it or creat a slither.io bot service</h4>
+
 <h4>Change log</h4>
 <ul>
   <li><b>19/04/16:</b> Started programming the client in node.js and started to understand the current game client.</li>
