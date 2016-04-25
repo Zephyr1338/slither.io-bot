@@ -14,10 +14,10 @@
   <li><b>23/04/16:</b> Added a new event handlers "snakeMoved", "foodSpawned", "foodEaten", "snakeMoved" and renamed one of them.</li>
   <li><b>23/04/16:</b> Created a new file on the repository showing an example of using proxies(HTTP).</li>
   <li><b>24/04/16:</b> Noticed "snakeAppeared" handler should get the current snake who spawned X and Y .</li>
-  <li><b>24/04/16:</b> Got getting other snake's X and Y completed reflected in the picture.</li>
+  <li><b>24/04/16:</b> Getting other snake's X and Y completed reflected in the picture.</li>
 </ul>
 
-<h6>I am now currently looking for people who are good at node.js to take part in this project, if you want to join respond in the issue.</h6>
+<h6>Bot is currently being developed on in private.</h6>
 <h6>Currently working on: not sure what it will be next now.</h6>
 
 <img src="http://i.imgur.com/k2ygqtJ.png" /><br>
@@ -33,4 +33,4 @@
 <i>Found my bot after a little search time, changed the name to make it easier to find :).</i><br>
 
 <img src="http://i.imgur.com/tQtGbrv.png" /><br>
-<i>Using proxies to create loads of bots a single server.</i><br>
+<i>Using proxies to create loads of bots on a single server.</i><br>
