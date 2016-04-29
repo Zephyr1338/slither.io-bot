@@ -1,7 +1,7 @@
 <h2>slither.io-bot</h2>
 <i>An open source Slither.io client implementation (written in node.js).</i>
 
-<h4>Notice: I have currently began to re-think making this public due to offers of money by people to either help them set it or may create a slither.io bot service</h4>
+<h4>Notice: Hi Cr4xy</h4>
 
 <h4>Change log</h4>
 <ul>
