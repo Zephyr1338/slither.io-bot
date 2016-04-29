@@ -29,7 +29,7 @@
 <i>Showing other snakes movements instead of (0, 0).</i><br>
 
 <img src="http://i.imgur.com/jcxth8u.png" /><br>
-<i>The bot current can load the snakes which "appear" around it.</i><br>
+<i>The current bot can load the snakes which "appear" around it.</i><br>
 
 <img src="http://i.imgur.com/xbXGbqW.png" /><br>
 <i>Found my bot after a little search time, changed the name to make it easier to find :).</i><br>
