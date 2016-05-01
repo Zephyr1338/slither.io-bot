@@ -1,7 +1,6 @@
 <h2>slither.io-bot</h2>
 <i>An open source Slither.io client implementation (written in node.js).</i>
 
-<h4>Notice: Hi Cr4xy</h4>
 
 <h4>Change log</h4>
 <ul>
@@ -17,10 +16,11 @@
   <li><b>23/04/16:</b> Created a new file on the repository showing an example of using proxies(HTTP).</li>
   <li><b>24/04/16:</b> Noticed "snakeAppeared" handler should get the current snake who spawned X and Y .</li>
   <li><b>24/04/16:</b> Getting other snake's X and Y completed reflected in the picture.</li>
+  <li><b>01/05/16:</b> Started working on disabling the server control over the snake spawned by the client currently checking the headers.</li>
 </ul>
 
 <h6>Bot is currently being developed on in private.</h6>
-<h6>Currently working on: not sure what it will be next now.</h6>
+<h6>Currently working on: getting movement to work.</h6>
 
 <img src="http://i.imgur.com/k2ygqtJ.png" /><br>
 <i>Latest running version of the client.</i><br>
