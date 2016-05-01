@@ -16,6 +16,7 @@
   <li><b>23/04/16:</b> Created a new file on the repository showing an example of using proxies(HTTP).</li>
   <li><b>24/04/16:</b> Noticed "snakeAppeared" handler should get the current snake who spawned X and Y .</li>
   <li><b>24/04/16:</b> Getting other snake's X and Y completed reflected in the picture.</li>
+  <li><b>01/05/16:</b> Added a new event handler "codeUpdate".</li>
   <li><b>01/05/16:</b> Trying to make the snake move doesn't work and instead uses the rubbish server control.</li>
   <li><b>01/05/16:</b> Started working on disabling the server control over the snake spawned by the client currently checking the headers.</li>
 </ul>
