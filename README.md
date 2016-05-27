@@ -19,6 +19,7 @@
   <li><b>01/05/16:</b> Added a new event handler "codeUpdate".</li>
   <li><b>01/05/16:</b> Trying to make the snake move doesn't work and instead uses the rubbish server control.</li>
   <li><b>01/05/16:</b> Started working on disabling the server control over the snake spawned by the client currently checking the headers.</li>
+  <li><b>27/05/16:</b> Started working on the bot again, the bot is now confirmed to be a <b>public</b> bot, maybe an API.</li>
 </ul>
 
 <h6>Bot is currently being developed on in private, and will most likely <b>NOT</b> be public.</h6>
