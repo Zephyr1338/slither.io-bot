@@ -1,6 +1,6 @@
 <h2>slither.io-bot</h2>
-<i>An open source Slither.io client implementation (written in node.js).</i>
-
+<i>An <s>open</s> source Slither.io client implementation (written in node.js).</i>
+<a href="https://slibot.io/en/">Get bots from here</a>
 
 <h4>Change log</h4>
 <ul>
